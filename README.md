@@ -1,4 +1,4 @@
-![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)
+![MasterHead](https://swisscognitive.ch/wp-content/uploads/2022/03/Left-Right-Brain-Signals.gif)
 <h1 align="center">Hi 👋, I'm Selva Kumar</h1>
 <h3 align="center">A passionate frontend & backend developer from India</h3>
 <img align="right" at="coding" width=400 src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
